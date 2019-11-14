@@ -83,7 +83,7 @@ set -- "${POSITIONAL[@]}" # restore positional parameters
 clear
 
 # Set these to change the version of eazypayza to install
-TARBALLURL="https://github.com/EazyPayZA/EazyPayZA/releases/download/1.0.0/eazypayza-1.0.0-x86_64-linux-gnu.tar.gz"
+TARBALLURL="https://github.com/EazyPayCoin/EazyPayZA/releases/download/1.0.0/eazypayza-1.0.0-x86_64-linux-gnu.tar.gz"
 TARBALLNAME="eazypayza-1.0.0-x86_64-linux-gnu.tar.gz"
 BOOTSTRAPURL=""
 BOOTSTRAPARCHIVE=""
